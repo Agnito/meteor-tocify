@@ -17,4 +17,5 @@ And
 
 #More Info
 [Homepage](http://gregfranko.com/jquery.tocify.js/)
+
 [Annotated Source Code](http://gregfranko.com/jquery.tocify.js/docs/jquery.tocify.html)
